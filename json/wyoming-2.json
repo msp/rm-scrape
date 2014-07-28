@@ -1,7 +1,12 @@
 [
   {
     "country": "Wyoming, USA",
-    "intro": "Wyoming is one of the best places to establish a Limited Liability Company (LLC).LLCs may engage in any business (except activities reserved for financial institutions or insurance companies) in or outside the U.S. and can use the currency of their choice.Very few people know this, but Wyoming is where the American LLC was born in 1977, following the model of the German Companies Act 1892, known as Gesellschaft mit beschrnkter Haftung (GmbH). Nevada and Delaware based their companies on the Wyoming LLC and benefited from it, mainly through a more effective marketing.FEATURES OF WYOMING LIMITED LIABILITY COMPANIES (LLCs)",
+    "intro": [
+      "Wyoming is one of the best places to establish a Limited Liability Company (LLC).",
+      "LLCs may engage in any business (except activities reserved for financial institutions or insurance companies) in or outside the U.S. and can use the currency of their choice.",
+      "Very few people know this, but Wyoming is where the American LLC was born in 1977, following the model of the German Companies Act 1892, known as Gesellschaft mit beschrnkter Haftung (GmbH). Nevada and Delaware based their companies on the Wyoming LLC and benefited from it, mainly through a more effective marketing.",
+      "FEATURES OF WYOMING LIMITED LIABILITY COMPANIES (LLCs)"
+    ],
     "highlights": [
       "Excellent business organization law with broad protection for asset managers and investors.",
       "Modern Companies Act",

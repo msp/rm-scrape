@@ -1,7 +1,12 @@
 [
   {
     "country": "Hong Kong",
-    "intro": "The jurisdiction of Hong Kong has gained increasing attention as a perfect destination for the incorporation of companies that allow banking, international trade, investment and asset protection activities.Its sound reputation for business, excellent policy on taxes and uncomplicated requirements are some of the factors that motivate corporations and investors to expand into global markets.FEATURES OF THE HONG KONG JURISDICTIONHIGHLIGHTS OF HONG KONG",
+    "intro": [
+      "The jurisdiction of Hong Kong has gained increasing attention as a perfect destination for the incorporation of companies that allow banking, international trade, investment and asset protection activities.",
+      "Its sound reputation for business, excellent policy on taxes and uncomplicated requirements are some of the factors that motivate corporations and investors to expand into global markets.",
+      "FEATURES OF THE HONG KONG JURISDICTION",
+      "HIGHLIGHTS OF HONG KONG"
+    ],
     "highlights": [
       "Excellent availability of company names for incorporation.",
       "The name “Limited” can be used in company names.",

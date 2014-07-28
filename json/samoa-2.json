@@ -1,7 +1,11 @@
 [
   {
     "country": "Samoa",
-    "intro": "Samoa has one of the best legislations available at present, despite the fact that little is known about this jurisdiction.Samoa has passed key legislation to protect the interests of the companies registered in its territory as much as possible. International Companies (ICs) can engage in any kind of lawful business, in any country, and carry out transactions in any currency they choose, with a fiscal policy based on the principle of territoriality.HIGHLIGHTS OF SAMOA",
+    "intro": [
+      "Samoa has one of the best legislations available at present, despite the fact that little is known about this jurisdiction.",
+      "Samoa has passed key legislation to protect the interests of the companies registered in its territory as much as possible. International Companies (ICs) can engage in any kind of lawful business, in any country, and carry out transactions in any currency they choose, with a fiscal policy based on the principle of territoriality.",
+      "HIGHLIGHTS OF SAMOA"
+    ],
     "highlights": [
       "Excellent corporation law.",
       "No taxes levied on offshore and banking transactions.",

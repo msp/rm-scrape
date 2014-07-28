@@ -43,12 +43,12 @@ scrape = (url, callback) ->
       nodes = browser.queryAll(".cms-page").map((node) ->
         title = browser.text(node)
         country =  browser.text(browser.query("h2", context))
-        intro = ""
+        intro = []
 
         pTags = browser.queryAll("p", context)
         pTags.pop()  #we don't want the last para
         pTags.map((el) ->
-          intro += browser.text(el)
+          intro.push browser.text(el)
         )
 
         ulTags = browser.queryAll("ul", context)

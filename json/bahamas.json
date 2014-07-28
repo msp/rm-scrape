@@ -1,7 +1,10 @@
 [
   {
     "country": "The Bahamas",
-    "intro": "Bahamas International Business Companies (IBCs) are used as vehicles to open bank accounts and to render import and export services, as well as a variety of other services for international firms and nonresident natural persons. The Bahamas meet all the requirements in terms of expeditiousness, cost-effectiveness and efficiency for the incorporation of IBCs, which are known for their versatility, low costs and simple administration. They are regulated by the International Business Companies Act, 2000 (as amended up until 2011).HIGHLIGHTS OF THE BAHAMAS",
+    "intro": [
+      "Bahamas International Business Companies (IBCs) are used as vehicles to open bank accounts and to render import and export services, as well as a variety of other services for international firms and nonresident natural persons. The Bahamas meet all the requirements in terms of expeditiousness, cost-effectiveness and efficiency for the incorporation of IBCs, which are known for their versatility, low costs and simple administration. They are regulated by the International Business Companies Act, 2000 (as amended up until 2011).",
+      "HIGHLIGHTS OF THE BAHAMAS"
+    ],
     "highlights": [
       "Excellent corporation law.",
       "No taxes levied on international and banking transactions.",

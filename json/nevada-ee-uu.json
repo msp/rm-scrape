@@ -1,7 +1,11 @@
 [
   {
     "country": "Nevada, USA",
-    "intro": "Nevada is considered one of the best jurisdictions in the United States for the incorporation of companies due to its versatility, low costs and fast service. Nevada Limited Liability Companies (LLCs) can conduct business outside the United States and employ any currency of their choice.HIGHLIGHTS OF NEVADA’s LIMITED LIABILITY COMPANIESHIGHLIGHTS OF NEVADA",
+    "intro": [
+      "Nevada is considered one of the best jurisdictions in the United States for the incorporation of companies due to its versatility, low costs and fast service. Nevada Limited Liability Companies (LLCs) can conduct business outside the United States and employ any currency of their choice.",
+      "HIGHLIGHTS OF NEVADA’s LIMITED LIABILITY COMPANIES",
+      "HIGHLIGHTS OF NEVADA"
+    ],
     "highlights": [
       "Nevada has no state tax, annual franchise tax, inventory tax, estate tax, unified tax, gift tax or taxes for chain store branches.",
       "Low taxes on property, contributions or payments for occupational accidents and unemployment benefits.",

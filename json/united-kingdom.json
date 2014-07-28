@@ -1,7 +1,14 @@
 [
   {
     "country": "United Kingdom",
-    "intro": "A member of the European Union, the OECD, the G8 and the G20, the United Kingdom is a key player in the shaping of international fiscal standards, while maintaining an attractive tax regime that draws foreign investment from all around the world.As the very first common law jurisdiction, the United Kingdom’s legal system allows for the incorporation of a variety of vehicles, of which Limited Liability Partnerships (LLPs) and Private Limited Companies (LTDs) are its rising stars. LLPs offer hybrid benefits, where its separate legal personality resembles that of a corporation, whereas its taxation is transparent through its Partners, and corporate tax does not apply. For LTDs, however, the United Kingdom has a tiered corporation tax system, where the rate fluctuates between 20% and 24%, depending on a company’s profits. UK tax residence is a default for all UK-incorporated companies, whereas UK LLPs determine their tax residence in accordance with that of their Partners, and the source of their income.Its new state-of-the-art online registration system allows for the incorporation and processing of documents to be carried out in as little as 24 hours, with electronic documents available immediately, while originals are prepared and shipped.USES OF LIMITED LIABILITY PARTNERSHIPS (LLP’s) AND PRIVATE LIMITED COMPANY (LTD’s)HIGHLIGHTS OF UNITED KINGDOMSOCIAL AND ECONOMIC INDICATORS",
+    "intro": [
+      "A member of the European Union, the OECD, the G8 and the G20, the United Kingdom is a key player in the shaping of international fiscal standards, while maintaining an attractive tax regime that draws foreign investment from all around the world.",
+      "As the very first common law jurisdiction, the United Kingdom’s legal system allows for the incorporation of a variety of vehicles, of which Limited Liability Partnerships (LLPs) and Private Limited Companies (LTDs) are its rising stars. LLPs offer hybrid benefits, where its separate legal personality resembles that of a corporation, whereas its taxation is transparent through its Partners, and corporate tax does not apply. For LTDs, however, the United Kingdom has a tiered corporation tax system, where the rate fluctuates between 20% and 24%, depending on a company’s profits. UK tax residence is a default for all UK-incorporated companies, whereas UK LLPs determine their tax residence in accordance with that of their Partners, and the source of their income.",
+      "Its new state-of-the-art online registration system allows for the incorporation and processing of documents to be carried out in as little as 24 hours, with electronic documents available immediately, while originals are prepared and shipped.",
+      "USES OF LIMITED LIABILITY PARTNERSHIPS (LLP’s) AND PRIVATE LIMITED COMPANY (LTD’s)",
+      "HIGHLIGHTS OF UNITED KINGDOM",
+      "SOCIAL AND ECONOMIC INDICATORS"
+    ],
     "highlights": [
       "Funds structures, per se, or as members thereof.",
       "Asset holding.",

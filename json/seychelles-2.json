@@ -1,7 +1,12 @@
 [
   {
     "country": "Seychelles",
-    "intro": "Seychelles is a growing economy with a very favourable climate for the establishment of companies. The law governing the creation of corporations in this jurisdiction, known as the “International Business Company Act”, came into force in 1994, with recent amendments made up to 2013.The legislation is modern and useful for multiple uses, inspired by the best in the market.Seychelles is a member of the African Union and actively cooperates with the OECD in international tax transparency matters, having signed double taxation treaties and tax information exchange treaties with more than 25 countries around the world.HIGHLIGHTS OF SEYCHELLES",
+    "intro": [
+      "Seychelles is a growing economy with a very favourable climate for the establishment of companies. The law governing the creation of corporations in this jurisdiction, known as the “International Business Company Act”, came into force in 1994, with recent amendments made up to 2013.",
+      "The legislation is modern and useful for multiple uses, inspired by the best in the market.",
+      "Seychelles is a member of the African Union and actively cooperates with the OECD in international tax transparency matters, having signed double taxation treaties and tax information exchange treaties with more than 25 countries around the world.",
+      "HIGHLIGHTS OF SEYCHELLES"
+    ],
     "highlights": [
       "Excellent corporation law.",
       "No taxes levied on offshore and banking transactions.",

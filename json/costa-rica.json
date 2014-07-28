@@ -1,7 +1,21 @@
 [
   {
     "country": "Costa Rica",
-    "intro": "The Republic of Costa Rica is located in Central America, bordered by Nicaragua in the north and Panama in the south. Costa Rica offers political stability and a growing economy with a thriving environment for the formation of Corporations (S.A.) and Limited Liability Companies (S.R.L.).The Corporations (S.A.) and Limited Liability Companies (S.R.L.) of Costa Rica are similar in structure to their counterparts in Panama. They are versatile legal entities that can be used for any lawful activity in any country, and they can transact in the currency of their choice.HIGHLIGHTS OF COSTA RICAUSES OF COSTA RICA COMPANIES (S.A. / S.R.L.)SOCIAL AND ECONOMIC INDICATORSIn the event of further queries, kindly contact your local Mossack Fonseca office or by email to mfcostarica@mossfon.com.",
+    "intro": [
+      "The Republic of Costa Rica is located in Central America, bordered by Nicaragua in the north and Panama in the south. Costa Rica offers political stability and a growing economy with a thriving environment for the formation of Corporations (S.A.) and Limited Liability Companies (S.R.L.).",
+      "The Corporations (S.A.) and Limited Liability Companies (S.R.L.) of Costa Rica are similar in structure to their counterparts in Panama. They are versatile legal entities that can be used for any lawful activity in any country, and they can transact in the currency of their choice.",
+      "",
+      "",
+      "HIGHLIGHTS OF COSTA RICA",
+      "",
+      "USES OF COSTA RICA COMPANIES (S.A. / S.R.L.)",
+      "",
+      "",
+      "SOCIAL AND ECONOMIC INDICATORS",
+      "",
+      "In the event of further queries, kindly contact your local Mossack Fonseca office or by email to mfcostarica@mossfon.com.",
+      ""
+    ],
     "highlights": [
       "Flexible company law.",
       "Speedy incorporation procedure and simple administration",

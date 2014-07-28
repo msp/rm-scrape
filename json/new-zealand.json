@@ -1,7 +1,13 @@
 [
   {
     "country": "New Zealand",
-    "intro": "New Zealand is a prosperous and stable country having a strong economy. It has as well, secure and very flexible company and trust laws, allowing speedy formation of ideal vehicles for wealth protection, inheritance and tax planning.Among those main vehicles offered by this Oceania country, member of the British Commonwealth and the OECD we can mention, foreign trusts, Limited Partnerships or LPs and recently, the Look Through Companies or LTCs.USES OF NEW ZEALAND LTC’sHIGHLIGHTS OF NEW ZEALANDSOCIAL AND ECONOMIC INDICATORS",
+    "intro": [
+      "New Zealand is a prosperous and stable country having a strong economy. It has as well, secure and very flexible company and trust laws, allowing speedy formation of ideal vehicles for wealth protection, inheritance and tax planning.",
+      "Among those main vehicles offered by this Oceania country, member of the British Commonwealth and the OECD we can mention, foreign trusts, Limited Partnerships or LPs and recently, the Look Through Companies or LTCs.",
+      "USES OF NEW ZEALAND LTC’s",
+      "HIGHLIGHTS OF NEW ZEALAND",
+      "SOCIAL AND ECONOMIC INDICATORS"
+    ],
     "highlights": [
       "International tax planning.",
       "Wealth Management.",

@@ -1,7 +1,12 @@
 [
   {
     "country": "British Anguilla",
-    "intro": "British Anguilla is a British Overseas Territory and it offers a broad variety of services for international companies and non-resident natural persons. Its government is fully committed to the advancement of its financial sector, offering all the necessary requirements in terms of expeditiousness, cost-effectiveness and efficacy in company formation matters. This jurisdiction facilitates the creation of trusts, foundations, International Business Companies (IBCs) and Limited Liability Companies (LLCs) and it is ideal for import, export, e-commerce, real estate and intellectual property businesses, among others.HIGHLIGHTS OF BRITISH ANGUILLASOCIAL AND ECONOMIC INDICATORS",
+    "intro": [
+      "British Anguilla is a British Overseas Territory and it offers a broad variety of services for international companies and non-resident natural persons. Its government is fully committed to the advancement of its financial sector, offering all the necessary requirements in terms of expeditiousness, cost-effectiveness and efficacy in company formation matters. This jurisdiction facilitates the creation of trusts, foundations, International Business Companies (IBCs) and Limited Liability Companies (LLCs) and it is ideal for import, export, e-commerce, real estate and intellectual property businesses, among others.",
+      "",
+      "HIGHLIGHTS OF BRITISH ANGUILLA",
+      "SOCIAL AND ECONOMIC INDICATORS"
+    ],
     "highlights": [
       "Excellent corporation law.",
       "Modern company law.",
